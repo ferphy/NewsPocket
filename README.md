@@ -16,21 +16,6 @@ NewsPocket is a modern mobile application to keep you up to date with the latest
 
 ---
 
-## 📸 Screenshots
-
-<!-- You can update these when you have real screenshots -->
-<div align="center">
-
-### News List Screen  
-<img src="app/src/main/res/drawable/news_list.png" width="400" alt="News List Screen">
-
-### Article Detail Screen  
-<img src="app/src/main/res/drawable/article_detail.png" width="400" alt="Article Detail Screen">
-
-</div>
-
----
-
 ## 📲 Installation
 
 1. Clone this repository:
